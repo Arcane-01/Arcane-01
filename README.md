@@ -17,7 +17,7 @@
 
 <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a Chaos Engineering Enthusiast, Open Source Contributor, and Professional Yak Shaver. I also like Python and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
 
-### <img height="40" src="https://github.com/Arcane-01/Arcane-01/blob/main/pika.gif"/>Connect with me:
+### <img height="40" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"/>Connect with me:
 <p align='left'>
    <a href="https://www.linkedin.com/in/prajyot-jadhav-90921a241/"><img height="30" src="https://github.com/Arcane-01/Arcane-01/blob/main/linkedin_icon.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/its_arcane_"><img height="30" src="https://github.com/Arcane-01/Arcane-01/blob/main/twitter_icon.png?raw=true"></a>&nbsp;&nbsp;
