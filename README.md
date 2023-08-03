@@ -21,7 +21,7 @@
 </p>
 --->
 
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm Prajyot Jadhav, a Robotics and AI enthusiast. I am a pre-final year undergraduate student at <a href="http://vnit.ac.in/">Visvesvaraya National Institute of Technology, Nagpur</a></samp></h4>
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm Prajyot Jadhav, a Robotics and AI enthusiast. I am a final year undergraduate student at <a href="http://vnit.ac.in/">Visvesvaraya National Institute of Technology, Nagpur</a></samp></h4>
 
 ### <img height="40" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"/>Connect with me:
 <p align='left'>
